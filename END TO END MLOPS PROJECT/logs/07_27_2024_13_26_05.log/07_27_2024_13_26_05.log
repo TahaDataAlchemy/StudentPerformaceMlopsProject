@@ -1,0 +1,12 @@
+[ 2024-07-27 13:26:06,785 ] 33 root - INFO - Entered the data ingestion method
+[ 2024-07-27 13:26:06,791 ] 36 root - INFO - Imported data successfully
+[ 2024-07-27 13:26:06,797 ] 42 root - INFO - Train Test Initiated
+[ 2024-07-27 13:26:06,804 ] 48 root - INFO - Ingestion of data is completed
+[ 2024-07-27 13:26:06,824 ] 71 root - INFO - Read train and test data completed
+[ 2024-07-27 13:26:06,825 ] 72 root - INFO - Obtaining Preprocessing object
+[ 2024-07-27 13:26:06,825 ] 52 root - INFO - Numerical columns standard Scaling complete
+[ 2024-07-27 13:26:06,825 ] 54 root - INFO - Numerical columns standard Scaling complete
+[ 2024-07-27 13:26:06,826 ] 85 root - INFO - Applying preprocessing object on training Dataframe and testing dataframe.
+[ 2024-07-27 13:26:06,842 ] 97 root - INFO - Saved Preprocessing object
+[ 2024-07-27 13:26:06,847 ] 35 root - INFO - split training and test input data
+[ 2024-07-27 13:27:19,109 ] 101 root - INFO - Best found model on both training and testing dataset
