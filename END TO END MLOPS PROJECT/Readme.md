@@ -169,5 +169,6 @@
         This class is responsible for Predicting Custom Data input by Users  
 
 **DEPLOYMENT USING AWS**
+
         Deployed On Using AWS Elastic Bean Stalk and Code Pipeline for the Deployment Of PROJECT**
 
